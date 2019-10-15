@@ -118,45 +118,47 @@ D. Rootkit
 ```
 #66~70
 ```
-66. Which of the following best describes(描述) malware(惡意軟體) that will execute(執行) some malicious(惡意) activity(活動)
-when a particular(特定) condition(條件) is met (i.e., if condition is met, then execute)?
-A. Boot sector virus
-B. Logic bomb
-C. Buffer overflow
-D. Sparse infector virus
+66. Which of the following best describes(描述) malware(惡意軟體) that will execute(執行)
+some malicious(惡意) activity(活動)when a particular(特定)
+condition(條件) is met (i.e., if condition is met, then execute)?
+A. Boot sector virus(開機型病毒)
+B. Logic bomb(邏輯炸彈)
+C. Buffer overflow(緩衝區溢位)
+D. Sparse(疏) infector(感染者) virus(病毒)
 
-67. Gerald is a network administrator for Acme Company. Users are reporting odd behavior
-on their computers. He believes this may be due to malware, but the behavior is different
-on different computers. What might best explain this?
-A. It is not malware, but hardware failure.
-B. It is a boot sector virus.
-C. It is a macro virus.
-D. It is a polymorphic virus.
+67. Gerald is a network administrator(管理員) for Acme Company(公司). Users are reporting(報告) odd(奇怪) behavior(行為)
+on their computers. He believes(相信) this may be due to malware(惡意軟體), but the behavior is different
+on different computers. What might best explain(說明) this?
+A. It is not malware, but hardware failure(硬體故障).
+B. It is a boot sector virus(開機型病毒).
+C. It is a macro virus(巨集病毒).
+D. It is a polymorphic virus(多型病毒).
 
-68. Teresa is a security officer at ACME Inc. She has discovered an attack where the attacker
-sent multiple broadcast messages to the network routers, spoofing an IP address of one of
-the network servers. This caused the network to send a flood of packets to that server and
-it is no longer responding. What is this attack called?
+68. Teresa is a security(安全) officer at ACME Inc. She has discovered(發現) an attack where the attacker
+sent multiple(多) broadcast(廣播) messages(訊息) to the network routers(路由器), spoofing(欺騙) an IP address(地址) of one of
+the network servers. This caused(造成) the network to send(發送) a flood(洪水) of packets(包) to that server and
+it is no longer(更長) responding(回應). What is this attack called?
 A. Smurf attack
 B. DDoS attack
 C. TCP hijacking attack
 D. TCP SYN flood attack
 
-69. Which type of virus is able to alter its own code to avoid being detected by antivirus software?
-A. Boot sector
-B. Hoax
-C. Polymorphic
-D. Stealth
+69. Which type of virus(病毒) is able(能夠) to alter(年齡) its own code to avoid(避免) 
+being detected(檢測到) by antivirus(防毒軟體) software(軟體)?
+A. Boot sector(啟動磁區)
+B. Hoax(惡作劇)
+C. Polymorphic(多態的)
+D. Stealth(隱身)
 
-70. Gerald is a network administrator for a small financial services company. Users are
-reporting odd behavior that appears to be caused by a virus on their machines. After isolating
-the machines that he believes are infected, Gerald analyzes them. He finds that all
-the infected machines received an email purporting to be from accounting, with an Excel
-spreadsheet, and the users opened the spreadsheet. What is the most likely issue on these
-machines?
-A. A macro virus
-B. A boot sector virus
-C. A Trojan horse
+70. Gerald is a network administrator(管理員) for a small financial(金融) services(服務) company. Users are
+reporting(報告) odd behavior(行為) that appears(出現) to be caused(造成) by a virus on their machines(機器).
+After isolating(隔離) the machines that he believes are infected(被感染), Gerald analyzes(分析) them.
+He finds(發現) that all the infected(被感染) machines(機器) received(已收到) an email purporting(聲稱)
+to be from accounting(會計), with an Excel spreadsheet(電子表格), and the users opened the spreadsheet.
+What is themost(最) likely(可能) issue(問題) on these machines?
+A. A macro virus(巨集病毒)
+B. A boot sector virus(開機型病毒)
+C. A Trojan horse(特洛伊病毒)
 D. A RAT
 ```
 
