@@ -119,7 +119,7 @@ D. Rootkit
 #66~70
 ```
 66. Which of the following best describes(描述) malware(惡意軟體) that will execute(執行) some malicious(惡意) activity(活動)
-when a particular(特定) condition is met (i.e., if condition is met, then execute)?
+when a particular(特定) condition(條件) is met (i.e., if condition is met, then execute)?
 A. Boot sector virus
 B. Logic bomb
 C. Buffer overflow
