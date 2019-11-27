@@ -2,8 +2,8 @@
 ```
 1.1 熟悉底下[惡意程式malware]
 Given a scenario, analyze indicators of compromise and determine the type of malware.
-■■ Viruses
-■■ Crypto-malware
+■■ Viruses[病毒]
+■■ Crypto-malware[是一種於2013年下半年出現的特洛伊木馬，以勒索軟體的形式出現的惡意軟體]
 ■■ Ransomware
 ■■ Worm
 ■■ Trojan
