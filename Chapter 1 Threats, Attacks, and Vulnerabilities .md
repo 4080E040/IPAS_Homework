@@ -4,17 +4,17 @@
 Given a scenario, analyze indicators of compromise and determine the type of malware.
 ■■ Viruses[病毒]
 ■■ Crypto-malware[是一種於2013年下半年出現的特洛伊木馬，以勒索軟體的形式出現的惡意軟體]
-■■ Ransomware
-■■ Worm
-■■ Trojan
-■■ Rootkit
-■■ Keylogger
-■■ Adware
-■■ Spyware
-■■ Bots
-■■ RAT
-■■ Logic bomb
-■■ Backdoor
+■■ Ransomware[勒索軟體]
+■■ Worm[蠕蟲]
+■■ Trojan[特洛伊木馬]
+■■ Rootkit[]
+■■ Keylogger[鍵盤側錄]
+■■ Adware[廣告病毒]
+■■ Spyware[間諜軟體]
+■■ Bots[網路機器人]
+■■ RAT[RAT像間諜軟體一樣使用]
+■■ Logic bomb[邏輯炸彈]
+■■ Backdoor[軟體後門指繞過軟體的安全性控制，從比較隱秘的通道取得對程式或系統存取權的駭客方法。]
 
 1.2 熟悉各種攻擊模式  Compare and contrast types of attacks.
 
