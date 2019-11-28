@@ -1,8 +1,8 @@
 # Chapter 2 Technologies and Tools 
 ```
-2.1 Install and configure network components,
-both hardware- and software-based, to support
-organizational security.
+2.1 Install[安裝] and configure[配置] network components,
+both hardware[硬體]- and software-based[基本軟體], to support[支持]
+organizational[組織] security[安全].
 ■■ Firewall
 ■■ ACL
 ■■ Application-based vs. network-based
